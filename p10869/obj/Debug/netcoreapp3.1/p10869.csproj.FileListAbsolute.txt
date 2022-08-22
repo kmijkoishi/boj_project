@@ -1,0 +1,11 @@
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.exe
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.deps.json
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.runtimeconfig.json
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.runtimeconfig.dev.json
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.dll
+C:\projects\boj_project\p10869\bin\Debug\netcoreapp3.1\p10869.pdb
+C:\projects\boj_project\p10869\obj\Debug\netcoreapp3.1\p10869.csprojAssemblyReference.cache
+C:\projects\boj_project\p10869\obj\Debug\netcoreapp3.1\p10869.AssemblyInfoInputs.cache
+C:\projects\boj_project\p10869\obj\Debug\netcoreapp3.1\p10869.AssemblyInfo.cs
+C:\projects\boj_project\p10869\obj\Debug\netcoreapp3.1\p10869.dll
+C:\projects\boj_project\p10869\obj\Debug\netcoreapp3.1\p10869.pdb
