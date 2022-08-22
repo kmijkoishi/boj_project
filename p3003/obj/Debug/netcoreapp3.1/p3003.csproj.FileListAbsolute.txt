@@ -1,0 +1,11 @@
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.exe
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.deps.json
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.runtimeconfig.json
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.runtimeconfig.dev.json
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.dll
+C:\projects\boj_project\p3003\bin\Debug\netcoreapp3.1\p3003.pdb
+C:\projects\boj_project\p3003\obj\Debug\netcoreapp3.1\p3003.csprojAssemblyReference.cache
+C:\projects\boj_project\p3003\obj\Debug\netcoreapp3.1\p3003.AssemblyInfoInputs.cache
+C:\projects\boj_project\p3003\obj\Debug\netcoreapp3.1\p3003.AssemblyInfo.cs
+C:\projects\boj_project\p3003\obj\Debug\netcoreapp3.1\p3003.dll
+C:\projects\boj_project\p3003\obj\Debug\netcoreapp3.1\p3003.pdb

@@ -1,13 +1,14 @@
 ﻿using System;
 
-namespace p10926
+namespace p18108
 {
     class Program
     {
         static void Main(string[] args)
         {
             string s = Console.ReadLine();
-            Console.WriteLine(s + "??!");
+            int a = int.Parse(s);
+            Console.WriteLine(a - 543);
         }
     }
 }
