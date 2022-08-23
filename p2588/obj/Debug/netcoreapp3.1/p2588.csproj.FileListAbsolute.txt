@@ -1,0 +1,11 @@
+C:\projects\boj_project\p2588\obj\Debug\netcoreapp3.1\p2588.csprojAssemblyReference.cache
+C:\projects\boj_project\p2588\obj\Debug\netcoreapp3.1\p2588.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2588\obj\Debug\netcoreapp3.1\p2588.AssemblyInfo.cs
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.exe
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.deps.json
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.runtimeconfig.json
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.runtimeconfig.dev.json
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.dll
+C:\projects\boj_project\p2588\bin\Debug\netcoreapp3.1\p2588.pdb
+C:\projects\boj_project\p2588\obj\Debug\netcoreapp3.1\p2588.dll
+C:\projects\boj_project\p2588\obj\Debug\netcoreapp3.1\p2588.pdb

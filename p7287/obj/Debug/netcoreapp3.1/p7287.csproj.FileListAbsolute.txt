@@ -1,0 +1,11 @@
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.exe
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.deps.json
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.runtimeconfig.json
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.runtimeconfig.dev.json
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.dll
+C:\projects\boj_project\p7287\bin\Debug\netcoreapp3.1\p7287.pdb
+C:\projects\boj_project\p7287\obj\Debug\netcoreapp3.1\p7287.csprojAssemblyReference.cache
+C:\projects\boj_project\p7287\obj\Debug\netcoreapp3.1\p7287.AssemblyInfoInputs.cache
+C:\projects\boj_project\p7287\obj\Debug\netcoreapp3.1\p7287.AssemblyInfo.cs
+C:\projects\boj_project\p7287\obj\Debug\netcoreapp3.1\p7287.dll
+C:\projects\boj_project\p7287\obj\Debug\netcoreapp3.1\p7287.pdb

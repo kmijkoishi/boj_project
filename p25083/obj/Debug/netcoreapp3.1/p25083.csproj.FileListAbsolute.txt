@@ -1,0 +1,11 @@
+C:\projects\boj_project\p25083\obj\Debug\netcoreapp3.1\p25083.csprojAssemblyReference.cache
+C:\projects\boj_project\p25083\obj\Debug\netcoreapp3.1\p25083.AssemblyInfoInputs.cache
+C:\projects\boj_project\p25083\obj\Debug\netcoreapp3.1\p25083.AssemblyInfo.cs
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.exe
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.deps.json
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.runtimeconfig.json
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.runtimeconfig.dev.json
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.dll
+C:\projects\boj_project\p25083\bin\Debug\netcoreapp3.1\p25083.pdb
+C:\projects\boj_project\p25083\obj\Debug\netcoreapp3.1\p25083.dll
+C:\projects\boj_project\p25083\obj\Debug\netcoreapp3.1\p25083.pdb

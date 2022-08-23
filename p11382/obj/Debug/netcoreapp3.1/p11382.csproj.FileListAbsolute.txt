@@ -1,0 +1,11 @@
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.exe
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.deps.json
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.runtimeconfig.json
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.runtimeconfig.dev.json
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.dll
+C:\projects\boj_project\p11382\bin\Debug\netcoreapp3.1\p11382.pdb
+C:\projects\boj_project\p11382\obj\Debug\netcoreapp3.1\p11382.csprojAssemblyReference.cache
+C:\projects\boj_project\p11382\obj\Debug\netcoreapp3.1\p11382.AssemblyInfoInputs.cache
+C:\projects\boj_project\p11382\obj\Debug\netcoreapp3.1\p11382.AssemblyInfo.cs
+C:\projects\boj_project\p11382\obj\Debug\netcoreapp3.1\p11382.dll
+C:\projects\boj_project\p11382\obj\Debug\netcoreapp3.1\p11382.pdb

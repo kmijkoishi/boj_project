@@ -1,0 +1,11 @@
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.exe
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.deps.json
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.runtimeconfig.json
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.runtimeconfig.dev.json
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.dll
+C:\projects\boj_project\p1330\bin\Debug\netcoreapp3.1\p1330.pdb
+C:\projects\boj_project\p1330\obj\Debug\netcoreapp3.1\p1330.csprojAssemblyReference.cache
+C:\projects\boj_project\p1330\obj\Debug\netcoreapp3.1\p1330.AssemblyInfoInputs.cache
+C:\projects\boj_project\p1330\obj\Debug\netcoreapp3.1\p1330.AssemblyInfo.cs
+C:\projects\boj_project\p1330\obj\Debug\netcoreapp3.1\p1330.dll
+C:\projects\boj_project\p1330\obj\Debug\netcoreapp3.1\p1330.pdb
