@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2420\bin\Debug\net6.0\p2420.exe
+C:\projects\boj_project\p2420\bin\Debug\net6.0\p2420.deps.json
+C:\projects\boj_project\p2420\bin\Debug\net6.0\p2420.runtimeconfig.json
+C:\projects\boj_project\p2420\bin\Debug\net6.0\p2420.dll
+C:\projects\boj_project\p2420\bin\Debug\net6.0\p2420.pdb
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.AssemblyInfo.cs
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.dll
+C:\projects\boj_project\p2420\obj\Debug\net6.0\refint\p2420.dll
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.pdb
+C:\projects\boj_project\p2420\obj\Debug\net6.0\p2420.genruntimeconfig.cache
+C:\projects\boj_project\p2420\obj\Debug\net6.0\ref\p2420.dll

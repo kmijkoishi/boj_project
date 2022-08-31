@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2738\bin\Debug\net6.0\p2738.exe
+C:\projects\boj_project\p2738\bin\Debug\net6.0\p2738.deps.json
+C:\projects\boj_project\p2738\bin\Debug\net6.0\p2738.runtimeconfig.json
+C:\projects\boj_project\p2738\bin\Debug\net6.0\p2738.dll
+C:\projects\boj_project\p2738\bin\Debug\net6.0\p2738.pdb
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.AssemblyInfo.cs
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.dll
+C:\projects\boj_project\p2738\obj\Debug\net6.0\refint\p2738.dll
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.pdb
+C:\projects\boj_project\p2738\obj\Debug\net6.0\p2738.genruntimeconfig.cache
+C:\projects\boj_project\p2738\obj\Debug\net6.0\ref\p2738.dll

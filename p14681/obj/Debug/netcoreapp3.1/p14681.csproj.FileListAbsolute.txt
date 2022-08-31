@@ -1,3 +1,14 @@
-C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.csprojAssemblyReference.cache
 C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.AssemblyInfoInputs.cache
 C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.AssemblyInfo.cs
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.exe
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.deps.json
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.runtimeconfig.json
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.runtimeconfig.dev.json
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.dll
+C:\projects\boj_project\p14681\bin\Debug\netcoreapp3.1\p14681.pdb
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.csproj.AssemblyReference.cache
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.dll
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.pdb
+C:\projects\boj_project\p14681\obj\Debug\netcoreapp3.1\p14681.genruntimeconfig.cache
