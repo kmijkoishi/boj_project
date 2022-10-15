@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.AssemblyInfo.cs
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2908\bin\Debug\net6.0\p2908.exe
+C:\projects\boj_project\p2908\bin\Debug\net6.0\p2908.deps.json
+C:\projects\boj_project\p2908\bin\Debug\net6.0\p2908.runtimeconfig.json
+C:\projects\boj_project\p2908\bin\Debug\net6.0\p2908.dll
+C:\projects\boj_project\p2908\bin\Debug\net6.0\p2908.pdb
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.dll
+C:\projects\boj_project\p2908\obj\Debug\net6.0\refint\p2908.dll
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.pdb
+C:\projects\boj_project\p2908\obj\Debug\net6.0\p2908.genruntimeconfig.cache
+C:\projects\boj_project\p2908\obj\Debug\net6.0\ref\p2908.dll

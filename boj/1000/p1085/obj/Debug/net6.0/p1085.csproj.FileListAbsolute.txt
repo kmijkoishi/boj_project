@@ -1,0 +1,15 @@
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.csproj.AssemblyReference.cache
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.AssemblyInfoInputs.cache
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.AssemblyInfo.cs
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p1085\bin\Debug\net6.0\p1085.exe
+C:\projects\boj_project\p1085\bin\Debug\net6.0\p1085.deps.json
+C:\projects\boj_project\p1085\bin\Debug\net6.0\p1085.runtimeconfig.json
+C:\projects\boj_project\p1085\bin\Debug\net6.0\p1085.dll
+C:\projects\boj_project\p1085\bin\Debug\net6.0\p1085.pdb
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.dll
+C:\projects\boj_project\p1085\obj\Debug\net6.0\refint\p1085.dll
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.pdb
+C:\projects\boj_project\p1085\obj\Debug\net6.0\p1085.genruntimeconfig.cache
+C:\projects\boj_project\p1085\obj\Debug\net6.0\ref\p1085.dll

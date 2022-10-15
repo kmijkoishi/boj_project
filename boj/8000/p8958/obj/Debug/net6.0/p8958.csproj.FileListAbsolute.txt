@@ -1,0 +1,15 @@
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.csproj.AssemblyReference.cache
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.AssemblyInfoInputs.cache
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.AssemblyInfo.cs
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p8958\bin\Debug\net6.0\p8958.exe
+C:\projects\boj_project\p8958\bin\Debug\net6.0\p8958.deps.json
+C:\projects\boj_project\p8958\bin\Debug\net6.0\p8958.runtimeconfig.json
+C:\projects\boj_project\p8958\bin\Debug\net6.0\p8958.dll
+C:\projects\boj_project\p8958\bin\Debug\net6.0\p8958.pdb
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.dll
+C:\projects\boj_project\p8958\obj\Debug\net6.0\refint\p8958.dll
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.pdb
+C:\projects\boj_project\p8958\obj\Debug\net6.0\p8958.genruntimeconfig.cache
+C:\projects\boj_project\p8958\obj\Debug\net6.0\ref\p8958.dll

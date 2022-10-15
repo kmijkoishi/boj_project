@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2475\bin\Debug\net6.0\p2475.exe
+C:\projects\boj_project\p2475\bin\Debug\net6.0\p2475.deps.json
+C:\projects\boj_project\p2475\bin\Debug\net6.0\p2475.runtimeconfig.json
+C:\projects\boj_project\p2475\bin\Debug\net6.0\p2475.dll
+C:\projects\boj_project\p2475\bin\Debug\net6.0\p2475.pdb
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.AssemblyInfo.cs
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.dll
+C:\projects\boj_project\p2475\obj\Debug\net6.0\refint\p2475.dll
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.pdb
+C:\projects\boj_project\p2475\obj\Debug\net6.0\p2475.genruntimeconfig.cache
+C:\projects\boj_project\p2475\obj\Debug\net6.0\ref\p2475.dll

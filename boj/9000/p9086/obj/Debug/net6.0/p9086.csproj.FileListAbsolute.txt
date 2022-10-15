@@ -1,0 +1,15 @@
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.csproj.AssemblyReference.cache
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.AssemblyInfoInputs.cache
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.AssemblyInfo.cs
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p9086\bin\Debug\net6.0\p9086.exe
+C:\projects\boj_project\p9086\bin\Debug\net6.0\p9086.deps.json
+C:\projects\boj_project\p9086\bin\Debug\net6.0\p9086.runtimeconfig.json
+C:\projects\boj_project\p9086\bin\Debug\net6.0\p9086.dll
+C:\projects\boj_project\p9086\bin\Debug\net6.0\p9086.pdb
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.dll
+C:\projects\boj_project\p9086\obj\Debug\net6.0\refint\p9086.dll
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.pdb
+C:\projects\boj_project\p9086\obj\Debug\net6.0\p9086.genruntimeconfig.cache
+C:\projects\boj_project\p9086\obj\Debug\net6.0\ref\p9086.dll

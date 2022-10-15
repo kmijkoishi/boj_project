@@ -1,0 +1,15 @@
+C:\projects\boj_project\p1043\bin\Debug\net6.0\p1043.exe
+C:\projects\boj_project\p1043\bin\Debug\net6.0\p1043.deps.json
+C:\projects\boj_project\p1043\bin\Debug\net6.0\p1043.runtimeconfig.json
+C:\projects\boj_project\p1043\bin\Debug\net6.0\p1043.dll
+C:\projects\boj_project\p1043\bin\Debug\net6.0\p1043.pdb
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.csproj.AssemblyReference.cache
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.AssemblyInfoInputs.cache
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.AssemblyInfo.cs
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.dll
+C:\projects\boj_project\p1043\obj\Debug\net6.0\refint\p1043.dll
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.pdb
+C:\projects\boj_project\p1043\obj\Debug\net6.0\p1043.genruntimeconfig.cache
+C:\projects\boj_project\p1043\obj\Debug\net6.0\ref\p1043.dll

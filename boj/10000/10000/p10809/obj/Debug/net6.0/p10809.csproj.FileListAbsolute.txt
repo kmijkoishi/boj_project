@@ -1,0 +1,15 @@
+C:\projects\boj_project\p10809\bin\Debug\net6.0\p10809.exe
+C:\projects\boj_project\p10809\bin\Debug\net6.0\p10809.deps.json
+C:\projects\boj_project\p10809\bin\Debug\net6.0\p10809.runtimeconfig.json
+C:\projects\boj_project\p10809\bin\Debug\net6.0\p10809.dll
+C:\projects\boj_project\p10809\bin\Debug\net6.0\p10809.pdb
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.csproj.AssemblyReference.cache
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.AssemblyInfoInputs.cache
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.AssemblyInfo.cs
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.dll
+C:\projects\boj_project\p10809\obj\Debug\net6.0\refint\p10809.dll
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.pdb
+C:\projects\boj_project\p10809\obj\Debug\net6.0\p10809.genruntimeconfig.cache
+C:\projects\boj_project\p10809\obj\Debug\net6.0\ref\p10809.dll

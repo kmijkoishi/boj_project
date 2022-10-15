@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.AssemblyInfo.cs
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2577\bin\Debug\net6.0\p2577.exe
+C:\projects\boj_project\p2577\bin\Debug\net6.0\p2577.deps.json
+C:\projects\boj_project\p2577\bin\Debug\net6.0\p2577.runtimeconfig.json
+C:\projects\boj_project\p2577\bin\Debug\net6.0\p2577.dll
+C:\projects\boj_project\p2577\bin\Debug\net6.0\p2577.pdb
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.dll
+C:\projects\boj_project\p2577\obj\Debug\net6.0\refint\p2577.dll
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.pdb
+C:\projects\boj_project\p2577\obj\Debug\net6.0\p2577.genruntimeconfig.cache
+C:\projects\boj_project\p2577\obj\Debug\net6.0\ref\p2577.dll

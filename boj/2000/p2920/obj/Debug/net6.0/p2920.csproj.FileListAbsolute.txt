@@ -1,0 +1,15 @@
+C:\projects\boj_project\p2920\bin\Debug\net6.0\p2920.exe
+C:\projects\boj_project\p2920\bin\Debug\net6.0\p2920.deps.json
+C:\projects\boj_project\p2920\bin\Debug\net6.0\p2920.runtimeconfig.json
+C:\projects\boj_project\p2920\bin\Debug\net6.0\p2920.dll
+C:\projects\boj_project\p2920\bin\Debug\net6.0\p2920.pdb
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.csproj.AssemblyReference.cache
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.AssemblyInfoInputs.cache
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.AssemblyInfo.cs
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.dll
+C:\projects\boj_project\p2920\obj\Debug\net6.0\refint\p2920.dll
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.pdb
+C:\projects\boj_project\p2920\obj\Debug\net6.0\p2920.genruntimeconfig.cache
+C:\projects\boj_project\p2920\obj\Debug\net6.0\ref\p2920.dll
