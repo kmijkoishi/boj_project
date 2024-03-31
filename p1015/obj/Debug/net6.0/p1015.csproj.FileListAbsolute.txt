@@ -1,0 +1,15 @@
+C:\projects\boj_project\p1015\bin\Debug\net6.0\p1015.exe
+C:\projects\boj_project\p1015\bin\Debug\net6.0\p1015.deps.json
+C:\projects\boj_project\p1015\bin\Debug\net6.0\p1015.runtimeconfig.json
+C:\projects\boj_project\p1015\bin\Debug\net6.0\p1015.dll
+C:\projects\boj_project\p1015\bin\Debug\net6.0\p1015.pdb
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.csproj.AssemblyReference.cache
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.AssemblyInfoInputs.cache
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.AssemblyInfo.cs
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.csproj.CoreCompileInputs.cache
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.dll
+C:\projects\boj_project\p1015\obj\Debug\net6.0\refint\p1015.dll
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.pdb
+C:\projects\boj_project\p1015\obj\Debug\net6.0\p1015.genruntimeconfig.cache
+C:\projects\boj_project\p1015\obj\Debug\net6.0\ref\p1015.dll
